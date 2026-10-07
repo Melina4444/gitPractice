@@ -16,13 +16,13 @@
 }
 
 .main {
-background-color: rgb(26, 71, 108);
+background-color: rgb(76, 133, 180);
 display: flex;
 height: 100vh;
 margin: 0;
 }
 
 .body {
-    background-color: rgb(26, 67, 108);
+    background-color: rgb(59, 128, 197);
     margin: 0;
 }
